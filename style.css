@@ -1,0 +1,59 @@
+body{
+background-color:white;
+background-image: url(code-wallpaper.jpeg);
+}
+nav{
+display: flex;
+justify-content: space-between;
+align-items: center;
+height: 60px;
+}
+nav ul{
+display: flex;
+
+
+}
+nav ul li a{
+      color: chocolate;
+    margin: 30px;
+}
+.home-text{
+    
+    width: 55%;
+    height: 45%;
+    position: absolute;
+    
+
+
+}
+.img1{
+    transform: translateX(-70);
+    position: absolute;
+    height: 50%;
+    left: 35%;
+    width: fit-content;
+    margin-top: 3%;
+}
+.home-text p{
+font-size: 22px;
+line-height: 10px;
+margin-left: 20%;
+margin-top: 5%;
+
+}
+section{
+
+    width: 100%;
+}
+.home-text h1{
+font-size: 30px;
+margin-left:15% ;
+
+
+}
+.logo{
+    color: black;
+}
+a{
+    font-size: 22px;
+}
